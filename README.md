@@ -20,6 +20,8 @@ The main goal of the project is to use a multiple linear regression model to ana
 
 - `yelp_regression.ipynb`: The notebook has explanations of the processes, analysis of the results, justifications of the decisions using tables and graphs.
 
+  Ps: As the data files are too big to upload on Github acces them through this link: https://drive.google.com/drive/folders/1h0cpBlEE0dB26xYHkJLm-8GjfCjZ7SDE?usp=sharing 
+
 ## Technologies:
 
   - Python: data collection, data exploration and preprocessing, data visualization anda data partitioning.
